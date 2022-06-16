@@ -116,7 +116,7 @@
 <br><br>
 <!-- Footer -->
 <div class="footer">
-   <span style="font-family:verdana;">&copy;</span> 2020 Sparks Bank. All rights reserved.
+   <span style="font-family:verdana;">&copy;</span> 2022 Sparks Bank. All rights reserved.
 </div>
 </body>
 
